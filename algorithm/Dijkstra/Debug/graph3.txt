@@ -1,0 +1,4 @@
+vertex_number=3
+vertex_value=1,2,3
+arcs_number=2
+arcs_value=1,2,14;2,3,25
